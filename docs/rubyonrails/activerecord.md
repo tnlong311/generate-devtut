@@ -37,7 +37,7 @@ This will create the columns email, sign_in_count and birthday in your database,
 ## Creating a Model manually
 
 
-While using scaffolding is a fast and easy if you are new to Rails or you are creating a new application, later it can be useful just to do it on your own ato avoid the need to go through the scaffold-generated code to slim it down (remove unused parts, etc.).
+While using scaffold is fast and easy if you are new to Rails or you are creating a new application, later it can be useful just to do it on your own to avoid the need to go through the scaffold-generated code to slim it down (remove unused parts, etc.).
 
 Creating a model can be as simple as creating a file under `app/models`.
 
